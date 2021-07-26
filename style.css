@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: linear-gradient(to right,red,blue,orange,pink);
+}
+.container{
+    text-align: center;
+    margin-top: 15%;
+
+}
+#value{
+    font-size: 70px;
+}
+h1{
+    font-size: 50px;
+}
+.btn{
+    padding: 2px;
+    margin: 2px;
+    font-size: 20px;
+}
